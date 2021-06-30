@@ -1,10 +1,11 @@
 ## Interface: 20501
 
-## Title: AdiBags_ItemRackSets_TBC
+## Title: AdiBags-ItemRackSets
 ## Notes: Adds ItemRack set filters to AdiBags.
-## Author: apottere & tomzopo
+## Author: apottere, Tomzopo
 ## Version: @project-version@
 ## X-Date: @project-date-iso@
+## X-License: MIT
 
 ## Dependencies: AdiBags, ItemRack
 
